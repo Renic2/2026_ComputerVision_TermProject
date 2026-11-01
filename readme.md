@@ -3,10 +3,10 @@
 > 한 줄 소개: 이 프로젝트가 무엇을 해결하는지 한 문장으로 작성
  
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-TBD-red)
+![PyTorch](https://img.shields.io/badge/PyTorch-TTT-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
  
-**과목:** 컴퓨터 비전 | **학기:** 2026-2학기 | **담당 교수:** OOO
+**과목:** 컴퓨터 비전 | **학기:** 2026-2학기 | **담당 교수:** 나기인
  
 ---
  
@@ -38,16 +38,12 @@
  
 ## 👥 팀원 소개
  
-이름을 누르면 GitHub 페이지로 이동합니다.
- 
 | 이름 | 학번 | 역할 | 담당 업무 |
 |:---:|:---:|:---:|:---|
-| [홍길동](https://github.com/username1) | 20XXXXXXXX | 팀장 | 프로젝트 총괄, 모델 설계 |
-| [김철수](https://github.com/username2) | 20XXXXXXXX | 팀원 | 데이터 수집 및 전처리 |
-| [이영희](https://github.com/username3) | 20XXXXXXXX | 팀원 | 모델 학습 및 실험 |
-| [박민수](https://github.com/username4) | 20XXXXXXXX | 팀원 | 평가 및 결과 분석, 문서화 |
- 
-<!-- 팀원 수에 맞게 행을 추가/삭제하세요 -->
+| [박태현](https://github.com/qkrxogus1233) | 22102415 | 팀장 | 프로젝트 총괄, 모델 설계 |
+| [양예인](https://github.com/YeinYang) | 22100135 | 팀원 | 데이터 수집 및 전처리 |
+| [조용민](https://github.com/rpjoy) | 22100206 | 팀원 | 모델 학습 및 실험 |
+| [최현수](https://github.com/Renic2) | 22100220 | 팀원 | 평가 및 결과 분석, 문서화 |
  
 ---
  
